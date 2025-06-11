@@ -1,0 +1,33 @@
+# Archivos de compilación
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# Binario final
+/juego
+/juego.exe
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de backup
+*~
+*.bak
+
+# Visual Studio Code
+.vscode/
+
+# Archivos de CMake (si algún día usás)
+/CMakeFiles/
+/CMakeCache.txt
+cmake_install.cmake
+Makefile
